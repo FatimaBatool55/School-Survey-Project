@@ -48,7 +48,8 @@ This dataset captures responses from students who transitioned from private inst
 #### Page 1: Overview & Navigation
 *Introduces the dashboard’s purpose and guides users through the three analytical sections.*
 
-<a href="https://github.com/FatimaBatool55/School-Survey-Project/blob/main/Page%201.jpg">Page 1.jpg</a>
+![Page 1](https://github.com/user-attachments/assets/697f6698-b249-4234-afa8-ce6e2b63145f)
+
 
 
 ---
@@ -56,7 +57,8 @@ This dataset captures responses from students who transitioned from private inst
 #### Page 2: Student Profile & Behavioral Insights
 *Analyzes student distribution, transport patterns, extracurricular impact, and post-grad preferences.*
 
-<a href="https://github.com/FatimaBatool55/School-Survey-Project/blob/main/Page%202.jpg">Page 2.jpg</a>
+![Page 2](https://github.com/user-attachments/assets/9b0732a8-f546-43af-9bb1-6601f7971fbd)
+
 
 
 **Highlights:**
@@ -70,7 +72,8 @@ This dataset captures responses from students who transitioned from private inst
 #### Page 3: Academic & Learning Insights
 *Explores how academic performance is influenced by stress, assessment frequency, class size, and library visits.*
 
-<a href="https://github.com/FatimaBatool55/School-Survey-Project/blob/main/Page%203.jpg">Page 3.jpg</a>
+![Page 3](https://github.com/user-attachments/assets/eb239ea6-6069-44e7-9b76-2e7f17351250)
+
 
 
 **Highlights:**
